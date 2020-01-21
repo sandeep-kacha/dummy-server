@@ -1,11 +1,4 @@
 {
-    "posts": [
-      { "id": 1, "title": "json-server", "author": "typicode" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" },
     "trucks":[
         {"id":1, "plateNo":"Wa1234", "modelId":"1","color":"#000000", "supplierId":"1", "status":"ACTIVE", "state":"INACTIVE"},
         {"id":2, "plateNo":"Wa1256", "modelId":"2","color":"#000000", "supplierId":"2","status":"IDLE","state":"ACTIVE"},
