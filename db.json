@@ -4,7 +4,7 @@
         {"id":2, "plateNo":"Wa1256", "modelId":"2","color":"#000000", "supplierId":"2","status":"IDLE","state":"ACTIVE"},
         {"id":3, "plateNo":"Wa1296", "modelId":"1","color":"#000000", "supplierId":"1","status":"INMAINTAINENCE","state":"INACTIVE"}
     ],
-    "trucksModels":[
+    "truckModels":[
         {"id":1, "make":"Hino", "Model":"Ab1", "year":"2018"},
         {"id":2, "make":"Toyota", "Model":"Ab3", "year":"2019"}
     ],
