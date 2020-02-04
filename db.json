@@ -11,5 +11,9 @@
     "suppliers":[
         {"id":1, "name":"CAFU LLC", "email":"cafu@cafu.com"},
         {"id":2, "name":"CAFU oman LLC", "email":"cafuoman@cafu.com"}
+    ],
+    "pilots":[
+        {"id":1, "name":"Ar Rahman", "email":"cafu@cafu.com", "phone":"+971 585858581"},
+        {"id":2, "name":"Amir khan", "email":"cafuoman@cafu.com", "phone":"+971 585858582"}
     ]
   }
