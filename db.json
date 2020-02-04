@@ -17,7 +17,7 @@
         {"id":2, "name":"Amir khan", "email":"cafuoman@cafu.com", "phone":"+971 585858582"}
     ],
     "markets":[
-        {"id":1, "Duabi"},
-        {"id":2, "Oman"}
+        {"id":1, "name":"Duabi"},
+        {"id":2, "name":"Oman"}
     ]
   }
